@@ -36,7 +36,6 @@ class FormComponent extends React.Component {
               <div style={{ align: "centre", textAlign: "center" }}>
                 <h6>Subsequent Contribution</h6>
               </div>
-
               <table>
                 <tbody>
                   <tr>

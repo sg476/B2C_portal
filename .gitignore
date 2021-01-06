@@ -1,0 +1,9 @@
+#dependences
+node_modules
+package-lock.json
+
+#hidden Folder
+.DS_Store
+
+#mis-file
+.vscode
