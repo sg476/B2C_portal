@@ -66,7 +66,6 @@ export class Enrollment extends Component {
                       </div>
                     </td>
                   </tr>
-                  <br />
                   <tr>
                     <td colSpan="2">
                       <div className="col_1">
